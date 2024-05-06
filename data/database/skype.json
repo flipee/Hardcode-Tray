@@ -2,11 +2,13 @@
     "name": "Skype",
     "app_path": [
         "/usr/share/skypeforlinux/",
-        "/var/lib/flatpak/app/com.skype.Client/"
+        "/var/lib/flatpak/app/com.skype.Client/",
+        "/opt/skypeforlinux/"
     ],
     "icons_path": [
         "/usr/share/skypeforlinux/resources/app.asar.unpacked/images/tray",
-        "/var/lib/flatpak/app/com.skype.Client/current/active/files/extra/share/skypeforlinux/resources/app.asar.unpacked/images/tray"
+        "/var/lib/flatpak/app/com.skype.Client/current/active/files/extra/share/skypeforlinux/resources/app.asar.unpacked/images/tray",
+        "/opt/skypeforlinux/resources/app.asar.unpacked/images/tray"
     ],
     "icons": {
         "away": {
